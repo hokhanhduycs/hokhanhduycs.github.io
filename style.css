@@ -2,3 +2,19 @@
     margin: 0;
     padding: 0;
 }
+
+.text-center.vitri {
+    font-size: 22px;
+}
+
+h2.text-center.mt-2.ten {-webkit-text-emphasis-style: filled;}
+
+.contact-item i {
+    margin-right: 10px;
+    color: #616161;
+    width: 27px;
+    margin-top: 9px;
+}
+a {
+    color: black;
+}
